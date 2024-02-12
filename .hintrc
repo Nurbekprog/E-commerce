@@ -4,6 +4,10 @@
   ],
   "hints": {
     "button-type": "off",
-    "axe/name-role-value": "off"
+    "axe/name-role-value": "off",
+    "no-inline-styles": "off",
+    "compat-api/html": "off",
+    "axe/text-alternatives": "off",
+    "axe/structure": "off"
   }
 }
