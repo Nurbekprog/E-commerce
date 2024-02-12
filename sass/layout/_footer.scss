@@ -30,13 +30,6 @@ footer{
     }
   }
 
-  // &__links {
-  //   @include mix.grid($number: 5, $fr: auto);
-  //   @media (max-width: 1120px) {
-  //     @include mix.grid($number: 3, $fr: auto, $gap: 10px);
-  //     margin-left: 20px;
-  //   }
-
   &__links {
     display: flex;
     gap: 20px;

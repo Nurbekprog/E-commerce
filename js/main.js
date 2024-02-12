@@ -9,6 +9,6 @@ footerPart.addEventListener("click", function () {
 });
 
 hiddenPart.addEventListener("click", () => {
-    hiddenCatalog.classList.toggle("show-catalog");
-  });
+  hiddenCatalog.classList.toggle("show-catalog");
+});
 
